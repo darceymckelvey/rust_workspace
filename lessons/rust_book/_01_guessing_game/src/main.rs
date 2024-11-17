@@ -36,7 +36,7 @@ fn main() {
         // line 21 creates a mutable variablethat is currently bound to a new
         // empty instance of a String =>
         let mut guess = String::new();
-
+ 
         // recieve user input
         // stdin is from the std::io library
         // without that library line 28 would be:
